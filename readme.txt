@@ -39,3 +39,4 @@ git reset HEAD readme.txt
 create a new branch is quick.
 
 branch management strategy
+with ff
