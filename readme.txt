@@ -37,3 +37,5 @@ git reset HEAD readme.txt
 
 
 create a new branch is quick.
+
+creating a new branch is quick AND simple.
