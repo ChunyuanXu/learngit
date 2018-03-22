@@ -31,3 +31,7 @@ git diff --cached
 
 cancel the modify in work dict
 git checkout -- readme.txt
+
+move the modify from stage to work dict
+git reset HEAD readme.txt
+
