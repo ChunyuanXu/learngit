@@ -22,3 +22,9 @@ git log --pretty=oneline
 git reflog
 
 use these commend to see the changes
+
+
+compare work dict and stage
+git diff
+compare stage and master
+git diff --cached
