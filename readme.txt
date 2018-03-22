@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is free software.
+Git is free software ditributed under the GPL.
 
 I have learned how to wirte a file in git bash, add and commit it.
 
