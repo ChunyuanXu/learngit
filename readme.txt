@@ -35,3 +35,5 @@ git checkout -- readme.txt
 move the modify from stage to work dict
 git reset HEAD readme.txt
 
+
+create a new branch is quick.
