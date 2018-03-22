@@ -28,3 +28,6 @@ compare work dict and stage
 git diff
 compare stage and master
 git diff --cached
+
+cancel the modify in work dict
+git checkout -- readme.txt
