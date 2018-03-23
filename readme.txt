@@ -38,4 +38,6 @@ git reset HEAD readme.txt
 
 create a new branch is quick.
 
-a branch management strategy
+A branch management strategy
+
+branch to stash
